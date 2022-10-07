@@ -6,4 +6,5 @@ I'm not entirely sure what I'm suppose to be doing with this website, so I'm gon
 
 - Introduction to me, and my game development
 - Pages with my games on projects
-- Art page
+- Art page // Trello type thing
+- Contact info, Twitter, Itch.io, buisness email
